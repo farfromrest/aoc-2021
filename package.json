@@ -1,0 +1,15 @@
+{
+  "name": "aoc-2021",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:farfromrest/aoc-2021.git",
+  "author": "Derek Fons <derek@farfromrest.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^16.11.11",
+    "ts-node": "^10.4.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.2"
+  }
+}
